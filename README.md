@@ -19,7 +19,7 @@ This project implements a Multi-Layer Perceptron (MLP) neural network to classif
 
 ## Dataset
 
-- **Source**: UCI SMS Spam Collection Dataset
+- **Source**: UCI SMS Spam Collection Dataset (https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - **Size**: 5,572 messages (original), 9,597 messages (after augmentation)
 - **Class Distribution**:
   - Original: 87% Ham (legitimate), 13% Spam
